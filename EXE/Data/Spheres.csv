@@ -1,0 +1,6 @@
+Name,Pos X,Pos Y,Pos Z,Radius,Colour R,Colour G,Colour B,Reflectivity,Transparency,Emission Colour,Parent,Rotation Speed
+1,0,0,-30,4,1,0.32,0.36,1,0,0,0,60
+2,5,-1,-15,2,0.9,0.76,0.46,1,0,0,0,60
+3,5,0,-25,3,0.65,0.77,0.97,1,0,0,1,60
+4,-5,-1,-15,2,0.9,0.76,0.46,1,0,0,0,60
+5,-5,0,-25,3,0.65,0.77,0.97,1,0,0,1,60
